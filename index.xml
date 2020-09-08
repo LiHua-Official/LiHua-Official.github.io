@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>某部落格</title>
+    <link>https://lihua.vercel.app/</link>
+    <description>Recent content on 某部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 08 Sep 2020 15:28:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://lihua.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ArchLinux安装</title>
+      <link>https://lihua.vercel.app/post/archlinux-install/</link>
+      <pubDate>Tue, 08 Sep 2020 15:28:15 +0800</pubDate>
+      
+      <guid>https://lihua.vercel.app/post/archlinux-install/</guid>
+      <description>准备 下载ISO镜像 清华大学镜像站 检验镜像文件 安装 本文以&amp;lt;Tab&amp;gt;表示Tab键 验证启动模式 1 ls /sys/firmware/efi/efivars 如果命令显示的目录没有错误，则系统</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://lihua.vercel.app/post/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lihua.vercel.app/post/hello-world/</guid>
+      <description>Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.
+Quick Start Create a new post 1  $ hexo new &amp;#34;My New Post&amp;#34;   More info: Writing
+Run server 1  $ hexo server   More info: Server
+Generate static files 1  $ hexo generate   More info: Generating</description>
+    </item>
+    
+  </channel>
+</rss>

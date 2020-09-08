@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arch on 某部落格</title>
+    <link>https://lihua.vercel.app/tags/arch/</link>
+    <description>Recent content in Arch on 某部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 08 Sep 2020 15:28:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://lihua.vercel.app/tags/arch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ArchLinux安装</title>
+      <link>https://lihua.vercel.app/post/archlinux-install/</link>
+      <pubDate>Tue, 08 Sep 2020 15:28:15 +0800</pubDate>
+      
+      <guid>https://lihua.vercel.app/post/archlinux-install/</guid>
+      <description>准备 下载ISO镜像 清华大学镜像站 检验镜像文件 安装 本文以&amp;lt;Tab&amp;gt;表示Tab键 验证启动模式 1 ls /sys/firmware/efi/efivars 如果命令显示的目录没有错误，则系统</description>
+    </item>
+    
+  </channel>
+</rss>

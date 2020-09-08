@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://lihua.vercel.app/sitemap.xml
