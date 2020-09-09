@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Li Hua&#39;s Blog</title>
-        <link>https://example.com/</link>
+        <link>https://lihuablog.tk/</link>
         <description>越过长城，走向世界</description>
         <generator>Hugo 0.74.3 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 09 Sep 2020 07:30:22 &#43;0000</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2020 08:37:20 &#43;0000</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://lihuablog.tk/rss.xml" />
         
         
             <item>
                 <title>ArchLinux安装</title>
-                <link>https://example.com/posts/archlinux-install/</link>
-                <guid isPermaLink="true">https://example.com/posts/archlinux-install/</guid>
+                <link>https://lihuablog.tk/posts/archlinux-install/</link>
+                <guid isPermaLink="true">https://lihuablog.tk/posts/archlinux-install/</guid>
                 <pubDate>Tue, 08 Sep 2020 15:28:15 &#43;0800</pubDate>
                 
                     <author>lihua@email.com (Li Hua)</author>
@@ -82,7 +82,7 @@
 &lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;ip addr show
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;若已分配IP地址，可跳转至&lt;a href=&#34;https://example.com/posts/archlinux-install/#%E8%BF%9E%E9%80%9A%E6%B5%8B%E8%AF%95&#34;&gt;连通测试&lt;/a&gt;；若无，手动分配ip地址。&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;若已分配IP地址，可跳转至&lt;a href=&#34;https://lihuablog.tk/posts/archlinux-install/#%E8%BF%9E%E9%80%9A%E6%B5%8B%E8%AF%95&#34;&gt;连通测试&lt;/a&gt;；若无，手动分配ip地址。&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -141,10 +141,40 @@
 比如：
 &lt;img src=&#34;https://cdn.jsdelivr.net/gh/LiHua-Official/pic/Arch%20Linux-2020-09-09-09-46-40.jpg&#34; alt=&#34;&#34;&gt;
 如果存在EFI System分区，建议保留&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;a&lt;/th&gt;
+&lt;th&gt;b&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;fgq&lt;/td&gt;
+&lt;td&gt;e6u&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;gg&lt;/td&gt;
+&lt;td&gt;ggh&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 </description>
                 
                 
                 
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://lihuablog.tk/posts/">posts</category>
+                            
+                        
+                    
+                
                 
                 
                     
@@ -153,7 +183,7 @@
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/%E6%95%99%E7%A8%8B/">教程</category>
+                                    <category domain="https://lihuablog.tk/categories/%E6%95%99%E7%A8%8B/">教程</category>
                                 
                             
                         
@@ -163,7 +193,7 @@
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/arch/">Arch</category>
+                                    <category domain="https://lihuablog.tk/tags/arch/">Arch</category>
                                 
                             
                         
@@ -173,8 +203,8 @@
         
             <item>
                 <title>Hello World</title>
-                <link>https://example.com/posts/hello-world/</link>
-                <guid isPermaLink="true">https://example.com/posts/hello-world/</guid>
+                <link>https://lihuablog.tk/posts/hello-world/</link>
+                <guid isPermaLink="true">https://lihuablog.tk/posts/hello-world/</guid>
                 <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
                 
                     <author>lihua@email.com (Li Hua)</author>
@@ -226,6 +256,18 @@
 </description>
                 
                 
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://lihuablog.tk/posts/">posts</category>
+                            
+                        
+                    
                 
                 
                 
