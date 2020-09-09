@@ -49,7 +49,7 @@
 <meta itemprop="description" content="有点脱离WIKI的安装方式，并附带一点点维护技巧">
 <meta itemprop="datePublished" content="2020-09-08T15:28:15+08:00" />
 <meta itemprop="dateModified" content="2020-09-08T15:28:15+08:00" />
-<meta itemprop="wordCount" content="482">
+<meta itemprop="wordCount" content="501">
 
 
 
@@ -126,7 +126,7 @@
         <div class="post-category">
             <a href="/categories/%E6%95%99%E7%A8%8B/"> 教程 </a>
             </div>
-          <span class="more-meta"> 约 482 字 </span>
+          <span class="more-meta"> 约 501 字 </span>
           <span class="more-meta"> 预计阅读 1 分钟 </span>
         
       </div>
@@ -248,7 +248,7 @@
 <pre class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="nb">echo</span> <span class="sb">`</span>free -m <span class="p">|</span> awk <span class="s1">&#39;NB==2{print $2}&#39;</span><span class="sb">`</span>MiB
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="nb">echo</span> <span class="sb">`</span>free -m <span class="p">|</span> awk <span class="s1">&#39;NR==2,NF=2&#39;</span><span class="sb">`</span>MiB
 </code></pre></td></tr></table>
 </div>
 </div><blockquote>
@@ -265,7 +265,8 @@
 </div>
 </div><p>当由实时系统识别，磁盘被分配给一个块设备如/dev/sda，/dev/nvme0n1或/dev/mmcblk0
 比如：
-<img src="https://cdn.jsdelivr.net/gh/LiHua-Official/pic/Arch%20Linux-2020-09-09-09-46-40.jpg" alt=""></p>
+<img src="https://cdn.jsdelivr.net/gh/LiHua-Official/pic/Arch%20Linux-2020-09-09-09-46-40.jpg" alt="">
+如果存在EFI System分区，建议保留</p>
 
     </div>
 
