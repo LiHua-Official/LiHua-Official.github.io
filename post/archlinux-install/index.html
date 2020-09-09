@@ -49,7 +49,7 @@
 <meta itemprop="description" content="有点脱离WIKI的安装方式">
 <meta itemprop="datePublished" content="2020-09-08T15:28:15+08:00" />
 <meta itemprop="dateModified" content="2020-09-08T15:28:15+08:00" />
-<meta itemprop="wordCount" content="289">
+<meta itemprop="wordCount" content="375">
 
 
 
@@ -126,7 +126,7 @@
         <div class="post-category">
             <a href="/categories/%E6%95%99%E7%A8%8B/"> 教程 </a>
             </div>
-          <span class="more-meta"> 约 289 字 </span>
+          <span class="more-meta"> 约 375 字 </span>
           <span class="more-meta"> 预计阅读 1 分钟 </span>
         
       </div>
@@ -151,6 +151,7 @@
         <li><a href="#静态ip分配">静态IP分配</a></li>
       </ul>
     </li>
+    <li><a href="#分区">分区</a></li>
   </ul>
 </nav>
   </div>
@@ -209,13 +210,17 @@
 <pre class="chroma"><code class="language-bash" data-lang="bash">ip addr add dev &lt;Tab&gt; 
 </code></pre></td></tr></table>
 </div>
-</div><p>ping某个测试网络连通专用网站。</p>
+</div><p>选择设备，<code>&lt;Tab&gt;</code> 输入IP地址，回车。</p>
+<blockquote>
+<p>注意：IP地址应与网关处于同一子网且不得与现有设备的IP地址冲突。</p>
+</blockquote>
+<p>ping<a href="https://baidu.com">某个测试网络连通专用网站</a>。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">ping -c 3baidu.com
+<pre class="chroma"><code class="language-bash" data-lang="bash">ping -c <span class="m">3</span> baidu.com
 </code></pre></td></tr></table>
 </div>
 </div><p>如果正常，继续。<br>
@@ -228,7 +233,20 @@
 <pre class="chroma"><code class="language-bash" data-lang="bash">timedatectl set-ntp <span class="nb">true</span>
 </code></pre></td></tr></table>
 </div>
+</div><h2 id="分区">分区</h2>
+<p>查看物理内存</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="nb">echo</span> <span class="sb">`</span>free -m <span class="p">|</span> awk <span class="s1">&#39;NB==2{print $2}&#39;</span><span class="sb">`</span>MiB
+</code></pre></td></tr></table>
 </div>
+</div><blockquote>
+<p>记住数值，后面用得到</p>
+</blockquote>
+
     </div>
 
     <div class="post-copyright">
