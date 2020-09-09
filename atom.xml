@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Li Hua&#39;s Blog</title>
     <subtitle type="html">越过长城，走向世界</subtitle>
-    <updated>2020-09-09T09:08:16&#43;00:00</updated>
+    <updated>2020-09-09T09:36:42&#43;00:00</updated>
     <id>https://lihuablog.tk/</id>
     <link rel="alternate" type="text/html" href="https://lihuablog.tk/" />
     <link rel="self" type="application/atom&#43;xml" href="https://lihuablog.tk/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">ArchLinux安装</title>
             <link rel="alternate" type="text/html" href="https://lihuablog.tk/posts/archlinux-install/" />
             <id>https://lihuablog.tk/posts/archlinux-install/</id>
-            <updated>2020-09-09T16:36:42&#43;08:00</updated>
+            <updated>2020-09-09T17:15:35&#43;08:00</updated>
             <published>2020-09-08T15:28:15&#43;08:00</published>
             <author>
                     <name>Li Hua</name>
@@ -185,6 +185,12 @@
                             
                             
                                 <category scheme="https://lihuablog.tk/tags/arch/" term="Arch" label="Arch" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://lihuablog.tk/tags/linux/" term="Linux" label="Linux" />
                             
                         
                     

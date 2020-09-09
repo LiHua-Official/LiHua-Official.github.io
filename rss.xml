@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 09 Sep 2020 09:08:16 &#43;0000</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2020 09:36:42 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://lihuablog.tk/rss.xml" />
         
@@ -194,6 +194,12 @@
                                 
                                 
                                     <category domain="https://lihuablog.tk/tags/arch/">Arch</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://lihuablog.tk/tags/linux/">Linux</category>
                                 
                             
                         
