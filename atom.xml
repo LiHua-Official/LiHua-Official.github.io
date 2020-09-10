@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Li Hua&#39;s Blog</title>
     <subtitle type="html">越过长城，走向世界</subtitle>
-    <updated>2020-09-10T11:51:49&#43;00:00</updated>
+    <updated>2020-09-10T13:23:49&#43;00:00</updated>
     <id>https://lihuablog.tk/</id>
     <link rel="alternate" type="text/html" href="https://lihuablog.tk/" />
     <link rel="self" type="application/atom&#43;xml" href="https://lihuablog.tk/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">ArchLinux安装</title>
             <link rel="alternate" type="text/html" href="https://lihuablog.tk/posts/archlinux-install/" />
             <id>https://lihuablog.tk/posts/archlinux-install/</id>
-            <updated>2020-09-10T19:36:25&#43;08:00</updated>
+            <updated>2020-09-10T21:01:28&#43;08:00</updated>
             <published>2020-09-08T15:28:15&#43;08:00</published>
             <author>
                     <name>Li Hua</name>
@@ -131,7 +131,7 @@
 &lt;/div&gt;&lt;p&gt;当由实时系统识别，磁盘被分配给一个块设备如/dev/sda，/dev/nvme0n1或/dev/mmcblk0
 比如：
 &lt;img src=&#34;https://cdn.jsdelivr.net/gh/LiHua-Official/pic/Arch%20Linux-2020-09-09-09-46-40.jpg&#34; alt=&#34;&#34;&gt;
-如果存在EFI System分区，建议保留&lt;/p&gt;
+如果存在EFI System分区，建议备份&lt;/p&gt;
 &lt;h4 id=&#34;备份efi方法示例git&#34;&gt;备份efi方法示例（git）&lt;/h4&gt;
 &lt;h5 id=&#34;注册帐号已有gihubgitlabgitee等平台帐号的童鞋可忽略&#34;&gt;注册帐号（已有Gihub，Gitlab，Gitee等平台帐号的童鞋可忽略）&lt;/h5&gt;
 &lt;p&gt;&lt;a href=&#34;https://gitee.com/signup&#34;&gt;Gitee&lt;/a&gt;

@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Thu, 10 Sep 2020 11:51:49 &#43;0000</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2020 13:23:49 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://lihuablog.tk/rss.xml" />
         
@@ -140,7 +140,7 @@
 &lt;/div&gt;&lt;p&gt;当由实时系统识别，磁盘被分配给一个块设备如/dev/sda，/dev/nvme0n1或/dev/mmcblk0
 比如：
 &lt;img src=&#34;https://cdn.jsdelivr.net/gh/LiHua-Official/pic/Arch%20Linux-2020-09-09-09-46-40.jpg&#34; alt=&#34;&#34;&gt;
-如果存在EFI System分区，建议保留&lt;/p&gt;
+如果存在EFI System分区，建议备份&lt;/p&gt;
 &lt;h4 id=&#34;备份efi方法示例git&#34;&gt;备份efi方法示例（git）&lt;/h4&gt;
 &lt;h5 id=&#34;注册帐号已有gihubgitlabgitee等平台帐号的童鞋可忽略&#34;&gt;注册帐号（已有Gihub，Gitlab，Gitee等平台帐号的童鞋可忽略）&lt;/h5&gt;
 &lt;p&gt;&lt;a href=&#34;https://gitee.com/signup&#34;&gt;Gitee&lt;/a&gt;
