@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Li Hua&#39;s Blog</title>
     <subtitle type="html">越过长城，走向世界</subtitle>
-    <updated>2020-09-10T23:03:59&#43;00:00</updated>
+    <updated>2020-09-11T08:49:05&#43;00:00</updated>
     <id>https://lihuablog.tk/</id>
     <link rel="alternate" type="text/html" href="https://lihuablog.tk/" />
     <link rel="self" type="application/atom&#43;xml" href="https://lihuablog.tk/atom.xml" />
@@ -18,9 +18,9 @@
     <generator uri="https://gohugo.io/" version="0.74.3">Hugo</generator>
         <entry>
             <title type="text">ArchLinux单系统安装</title>
-            <link rel="alternate" type="text/html" href="https://lihuablog.tk/posts/archlinux-install/" />
-            <id>https://lihuablog.tk/posts/archlinux-install/</id>
-            <updated>2020-09-10T21:01:28&#43;08:00</updated>
+            <link rel="alternate" type="text/html" href="https://lihuablog.tk/course/archlinux-install/" />
+            <id>https://lihuablog.tk/course/archlinux-install/</id>
+            <updated>2020-09-11T16:24:18&#43;08:00</updated>
             <published>2020-09-08T15:28:15&#43;08:00</published>
             <author>
                     <name>Li Hua</name>
@@ -73,7 +73,7 @@
 &lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;ip addr show
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;若已分配IP地址，可跳转至&lt;a href=&#34;https://lihuablog.tk/posts/archlinux-install/#%E8%BF%9E%E9%80%9A%E6%B5%8B%E8%AF%95&#34;&gt;连通测试&lt;/a&gt;；若无，手动分配ip地址。&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;若已分配IP地址，可跳转至&lt;a href=&#34;https://lihuablog.tk/course/archlinux-install/#%E8%BF%9E%E9%80%9A%E6%B5%8B%E8%AF%95&#34;&gt;连通测试&lt;/a&gt;；若无，手动分配ip地址。&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -243,7 +243,7 @@ umount /mnt
                     
                     
                         
-                            <category scheme="https://lihuablog.tk/posts/" term="posts" label="posts" />
+                            <category scheme="https://lihuablog.tk/course/" term="Course" label="Course" />
                         
                     
                 
@@ -272,9 +272,9 @@ umount /mnt
     
         <entry>
             <title type="text">Hello World</title>
-            <link rel="alternate" type="text/html" href="https://lihuablog.tk/posts/hello-world/" />
-            <id>https://lihuablog.tk/posts/hello-world/</id>
-            <updated>2020-09-10T16:39:44&#43;08:00</updated>
+            <link rel="alternate" type="text/html" href="https://lihuablog.tk/test/hello-world/" />
+            <id>https://lihuablog.tk/test/hello-world/</id>
+            <updated>2020-09-11T16:24:18&#43;08:00</updated>
             <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Li Hua</name>
@@ -337,7 +337,7 @@ Quick Start Create a new post 1  $ hexo new &amp;#34;My New Post&amp;#34;   More
                     
                     
                         
-                            <category scheme="https://lihuablog.tk/posts/" term="posts" label="posts" />
+                            <category scheme="https://lihuablog.tk/test/" term="Test" label="Test" />
                         
                     
                 
