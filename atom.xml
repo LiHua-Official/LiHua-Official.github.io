@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Li Hua&#39;s Blog</title>
     <subtitle type="html">越过长城，走向世界</subtitle>
-    <updated>2020-09-12T10:16:39&#43;00:00</updated>
+    <updated>2020-09-14T13:15:11&#43;00:00</updated>
     <id>https://lihuablog.tk/</id>
     <link rel="alternate" type="text/html" href="https://lihuablog.tk/" />
     <link rel="self" type="application/atom&#43;xml" href="https://lihuablog.tk/atom.xml" />
@@ -15,7 +15,7 @@
                 <email>lihua@email.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
-    <generator uri="https://gohugo.io/" version="0.74.3">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.75.0">Hugo</generator>
         <entry>
             <title type="text">ArchLinux单系统安装</title>
             <link rel="alternate" type="text/html" href="https://lihuablog.tk/course/archlinux-install/" />
@@ -188,7 +188,7 @@ umount /mnt
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;挂载点&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;挂载点&lt;/th&gt;
 &lt;th&gt;划分&lt;/th&gt;
 &lt;th&gt;分区类型&lt;/th&gt;
 &lt;th&gt;建议大小&lt;/th&gt;
@@ -196,19 +196,19 @@ umount /mnt
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;/mnt/boot OR /mnt/efi&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;/mnt/boot OR /mnt/efi&lt;/td&gt;
 &lt;td&gt;/dev/efi_system_partition&lt;/td&gt;
 &lt;td&gt;EFI system partition&lt;/td&gt;
 &lt;td&gt;大于200 MiB&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;[SWAP]&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;[SWAP]&lt;/td&gt;
 &lt;td&gt;/dev/swap_partition&lt;/td&gt;
 &lt;td&gt;Linux swap&lt;/td&gt;
 &lt;td&gt;总内存的一半&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;/mnt&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;/mnt&lt;/td&gt;
 &lt;td&gt;/dev/root_partition&lt;/td&gt;
 &lt;td&gt;Linux x86-64 root (/)&lt;/td&gt;
 &lt;td&gt;剩余空间&lt;/td&gt;
