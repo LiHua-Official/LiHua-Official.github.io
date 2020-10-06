@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://lihua.ac.cn/bytedanceverify/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lihua.ac.cn/test/hello-world/</loc>
     <lastmod>2020-09-11T16:24:18+08:00</lastmod>
   </url>
