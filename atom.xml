@@ -4,22 +4,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Li Hua&#39;s Blog</title>
     <subtitle type="html">越过长城，走向世界</subtitle>
-    <updated>2020-09-14T13:15:11&#43;00:00</updated>
-    <id>https://lihuablog.tk/</id>
-    <link rel="alternate" type="text/html" href="https://lihuablog.tk/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://lihuablog.tk/atom.xml" />
+    <updated>2020-10-06T04:15:27&#43;00:00</updated>
+    <id>https://lihua.ac.cn/</id>
+    <link rel="alternate" type="text/html" href="https://lihua.ac.cn/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://lihua.ac.cn/atom.xml" />
     <author>
             <name>Li Hua</name>
-            <uri>https://lihuablog.tk/</uri>
+            <uri>https://lihua.ac.cn/</uri>
             
                 <email>lihua@email.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
-    <generator uri="https://gohugo.io/" version="0.75.0">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.75.1">Hugo</generator>
         <entry>
             <title type="text">ArchLinux单系统安装</title>
-            <link rel="alternate" type="text/html" href="https://lihuablog.tk/course/archlinux-install/" />
-            <id>https://lihuablog.tk/course/archlinux-install/</id>
+            <link rel="alternate" type="text/html" href="https://lihua.ac.cn/course/archlinux-install/" />
+            <id>https://lihua.ac.cn/course/archlinux-install/</id>
             <updated>2020-09-12T17:55:58&#43;08:00</updated>
             <published>2020-09-08T15:28:15&#43;08:00</published>
             <author>
@@ -73,7 +73,7 @@
 &lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;ip a&amp;lt;Tab&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;若已分配IP地址，可跳转至&lt;a href=&#34;https://lihuablog.tk/course/archlinux-install/#%E8%BF%9E%E9%80%9A%E6%B5%8B%E8%AF%95&#34;&gt;连通测试&lt;/a&gt;；若无，手动分配ip地址。&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;若已分配IP地址，可跳转至&lt;a href=&#34;https://lihua.ac.cn/course/archlinux-install/#%E8%BF%9E%E9%80%9A%E6%B5%8B%E8%AF%95&#34;&gt;连通测试&lt;/a&gt;；若无，手动分配ip地址。&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -243,7 +243,7 @@ umount /mnt
                     
                     
                         
-                            <category scheme="https://lihuablog.tk/course/" term="Course" label="Course" />
+                            <category scheme="https://lihua.ac.cn/course/" term="Course" label="Course" />
                         
                     
                 
@@ -256,13 +256,13 @@ umount /mnt
                             
                             
                             
-                                <category scheme="https://lihuablog.tk/tags/arch/" term="Arch" label="Arch" />
+                                <category scheme="https://lihua.ac.cn/tags/arch/" term="Arch" label="Arch" />
                             
                         
                             
                             
                             
-                                <category scheme="https://lihuablog.tk/tags/linux/" term="Linux" label="Linux" />
+                                <category scheme="https://lihua.ac.cn/tags/linux/" term="Linux" label="Linux" />
                             
                         
                     
@@ -272,8 +272,8 @@ umount /mnt
     
         <entry>
             <title type="text">Hello World</title>
-            <link rel="alternate" type="text/html" href="https://lihuablog.tk/test/hello-world/" />
-            <id>https://lihuablog.tk/test/hello-world/</id>
+            <link rel="alternate" type="text/html" href="https://lihua.ac.cn/test/hello-world/" />
+            <id>https://lihua.ac.cn/test/hello-world/</id>
             <updated>2020-09-11T16:24:18&#43;08:00</updated>
             <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
@@ -337,7 +337,7 @@ Quick Start Create a new post 1  $ hexo new &amp;#34;My New Post&amp;#34;   More
                     
                     
                         
-                            <category scheme="https://lihuablog.tk/test/" term="Test" label="Test" />
+                            <category scheme="https://lihua.ac.cn/test/" term="Test" label="Test" />
                         
                     
                 
