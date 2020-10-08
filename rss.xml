@@ -10,7 +10,7 @@
         <title>Li Hua&#39;s Blog</title>
         <link>https://lihua.ac.cn/</link>
         <description>越过长城，走向世界</description>
-        <generator>Hugo 0.76.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.76.2 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 07 Oct 2020 07:44:22 &#43;0000</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2020 03:37:50 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://lihua.ac.cn/rss.xml" />
         
