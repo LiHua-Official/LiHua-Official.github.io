@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 02 Dec 2020 03:48:54 &#43;0000</lastBuildDate>
+        <lastBuildDate>Mon, 07 Dec 2020 01:28:30 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://lihua.ac.cn/rss.xml" />
         
@@ -239,8 +239,8 @@ umount /mnt
 &lt;img src=&#34;https://cdn.jsdelivr.net/gh/LiHua-Official/pic/Arch%20Linux-2020-09-10-20-06-29.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;删除所有分区&#34;&gt;删除所有分区&lt;/h4&gt;
 &lt;p&gt;&lt;code&gt;d&lt;/code&gt;，&lt;code&gt;&amp;lt;Enter&amp;gt;&lt;/code&gt;，&lt;code&gt;&amp;lt;Enter&amp;gt;&lt;/code&gt;，&lt;code&gt;d&lt;/code&gt;，&lt;code&gt;&amp;lt;Enter&amp;gt;&lt;/code&gt;，&lt;code&gt;&amp;lt;Enter&amp;gt;&lt;/code&gt;...&lt;/p&gt;
-&lt;h4 id=&#34;新建分区&#34;&gt;新建分区&lt;/h4&gt;
-&lt;p&gt;&lt;code&gt;n&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;新建分区示例&#34;&gt;新建分区(示例)&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;n&lt;/code&gt;,&lt;code&gt;&amp;lt;Enter&amp;gt;&lt;/code&gt;,&lt;code&gt;+200MiB&lt;/code&gt;,&lt;code&gt;&amp;lt;Enter&amp;gt;&lt;/code&gt;,&lt;code&gt;n&lt;/code&gt;,&lt;code&gt;&amp;lt;ENter&amp;gt;&lt;/code&gt;,&lt;/p&gt;
 </description>
                 
                 
