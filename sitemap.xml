@@ -3,51 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
-    <lastmod>2020-09-09T16:22:00+08:00</lastmod>
+    <loc>https://lihua.ac.cn/categories/</loc>
+    <lastmod>2020-09-09T16:36:42+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-09-09T16:22:00+08:00</lastmod>
+    <loc>https://lihua.ac.cn/</loc>
+    <lastmod>2020-12-08T08:41:35+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
-    <lastmod>2020-09-09T15:07:11+08:00</lastmod>
+    <loc>https://lihua.ac.cn/about/</loc>
+    <lastmod>2020-12-08T08:41:35+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/arch/</loc>
-    <lastmod>2020-09-08T15:28:15+08:00</lastmod>
+    <loc>https://lihua.ac.cn/tags/arch/</loc>
+    <lastmod>2020-12-07T09:19:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/course/archlinux-install/</loc>
-    <lastmod>2020-09-08T15:28:15+08:00</lastmod>
+    <loc>https://lihua.ac.cn/course/archlinux-install/</loc>
+    <lastmod>2020-12-07T09:19:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/course/</loc>
-    <lastmod>2020-09-08T15:28:15+08:00</lastmod>
+    <loc>https://lihua.ac.cn/course/</loc>
+    <lastmod>2020-12-07T09:19:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/linux/</loc>
-    <lastmod>2020-09-08T15:28:15+08:00</lastmod>
+    <loc>https://lihua.ac.cn/tags/linux/</loc>
+    <lastmod>2020-12-07T09:19:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2020-09-08T15:28:15+08:00</lastmod>
+    <loc>https://lihua.ac.cn/tags/</loc>
+    <lastmod>2020-12-07T09:19:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/test/hello-world/</loc>
+    <loc>https://lihua.ac.cn/test/hello-world/</loc>
+    <lastmod>2020-09-11T16:24:18+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/test/</loc>
+    <loc>https://lihua.ac.cn/test/</loc>
+    <lastmod>2020-09-11T16:24:18+08:00</lastmod>
   </url>
   
 </urlset>
