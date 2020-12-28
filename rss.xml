@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 28 Dec 2020 05:54:14 &#43;0000</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2020 08:33:16 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://lihua.ac.cn/rss.xml" />
         
@@ -61,7 +61,7 @@
 &lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;ls /sys/fi&amp;lt;Tab&amp;gt;&amp;lt;Tab&amp;gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;ls /sys/fi*
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;若命令显示存在efi，则系统以UEFI模式启动。若不存在，则系统可以BIOS（或CSM）模式启动。&lt;/p&gt;
@@ -79,7 +79,7 @@
 &lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;ip a&amp;lt;Tab&amp;gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;ip a
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;若已分配IP地址，可跳转至&lt;a href=&#34;https://lihua.ac.cn/course/archlinux-install/#%E8%BF%9E%E9%80%9A%E6%B5%8B%E8%AF%95&#34;&gt;连通测试&lt;/a&gt;；若无，手动分配ip地址。&lt;/p&gt;
@@ -93,7 +93,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;选择设备，&lt;code&gt;&amp;lt;Tab&amp;gt;&lt;/code&gt; 输入IP地址，回车。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;注意：IP地址应与网关处于同一子网且不得与现有设备的IP地址冲突。&lt;/p&gt;
+&lt;p&gt;注意：IP地址应与网关处于同一子网且不得与子网内现有设备的IP地址冲突（相同）。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;连通测试&#34;&gt;连通测试&lt;/h3&gt;
 &lt;p&gt;ping&lt;a href=&#34;https://baidu.com&#34;&gt;某个测试网络连通专用网站&lt;/a&gt;。&lt;/p&gt;
@@ -115,7 +115,8 @@
 &lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;timedatectl set-ntp &lt;span class=&#34;nb&#34;&gt;true&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h2 id=&#34;分区&#34;&gt;分区&lt;/h2&gt;
+&lt;/div&gt;&lt;h3 id=&#34;更换pacman源&#34;&gt;更换pacman源&lt;/h3&gt;
+&lt;h2 id=&#34;分区&#34;&gt;分区&lt;/h2&gt;
 &lt;h3 id=&#34;查看物理总内存知道你设备物理内存的可以忽略这一步&#34;&gt;查看物理总内存（知道你设备物理内存的可以忽略这一步）&lt;/h3&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -193,7 +194,7 @@ git push -u origin master
 umount /mnt
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h4 id=&#34;分区示例布局新手建议布局老手请自己分区&#34;&gt;分区示例布局（新手建议布局，老手请自己分区）&lt;/h4&gt;
+&lt;/div&gt;&lt;h4 id=&#34;分区示例布局新手建议布局老手估计不需要看该教程&#34;&gt;分区示例布局（新手建议布局，老手估计不需要看该教程）&lt;/h4&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
